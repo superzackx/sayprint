@@ -1,2 +1,2 @@
-# sayprint
-Terminal printing should be easy.
+# SayPrint: Terminal printing should be simple.
+```say("Hello")``` will print hello, exactly like ```console.log("hello")```
